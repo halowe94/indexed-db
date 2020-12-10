@@ -17,11 +17,12 @@ A progressive web application where the user can add expenses and deposits to th
 ## Installation
 
 Use the package managers
-[compression] (https://www.npmjs.com/package/compression)
-[express] (http://expressjs.com/)
-[lite-server] (https://www.npmjs.com/package/server-lite)
-[mongoose] (https://www.npmjs.com/package/mongoose)
-[morgan] (https://www.npmjs.com/package/morgan)
+
+- [compression] (https://www.npmjs.com/package/compression)
+- [express] (http://expressjs.com/)
+- [lite-server] (https://www.npmjs.com/package/server-lite)
+- [mongoose] (https://www.npmjs.com/package/mongoose)
+- [morgan] (https://www.npmjs.com/package/morgan)
 
 ```bash
 npm install dependencies
@@ -33,6 +34,8 @@ npm install dependencies
 import compression, express, lite-server, mongoose, morgan
 npm install to install dependencies
 ```
+
+![Web Application](./img/budget-tracker.png)
 
 ## Contributing
 

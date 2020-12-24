@@ -49,6 +49,10 @@ pull requests are welcome, but requests are a necessity before you make changes.
 
 N/A
 
+## Deployed Application
+
+https://indexed-db-gallery.herokuapp.com/
+
 ## Questions
 
 For more info, click here:
